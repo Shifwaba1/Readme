@@ -193,7 +193,7 @@ The system was refactored to adhere to several important software design princip
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://github.com/Shifwaba1/student-management-system.git
    ```
    
 2. **Navigate to the Project Directory:**
